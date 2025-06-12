@@ -24,7 +24,7 @@ El usuario puede modificar las siguientes propiedades desde Power Apps:
 | `BadgeCount`      | Número que se muestra en el badge (puede ser solo un punto)    | Número    | 5                 |
 | `ButtonColor`     | Color de fondo del botón                                       | Color     | "#0078D4"         |
 | `BadgeColor`      | Color del badge de alerta                                      | Color     | "#FF0000"         |
-| 
+
 
 > **Nota:** Personaliza esta tabla según las propiedades reales de tu componente.
 
@@ -85,7 +85,7 @@ Users can modify the following properties from Power Apps:
 | `BadgeCount`      | Number displayed in the badge (can be just a dot)              | Number    | 5                 |
 | `ButtonColor`     | Button background color                                        | Color     | "#0078D4"         |
 | `BadgeColor`      | Alert badge color                                              | Color     | "#FF0000"         |
-| 
+
 
 > **Note:** Customize this table according to your component's actual properties.
 
