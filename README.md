@@ -7,8 +7,7 @@ Componente de código de botón de Alerta para Power Apps.
 <img src="/app1.png">
 
 <p><p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KssB2D2SY0?si=ik7iqePlR1dK2YYZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=1KssB2D2SY0">Ver video </a>
 
 <p><p>
 
