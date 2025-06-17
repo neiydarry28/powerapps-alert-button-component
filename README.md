@@ -1,7 +1,17 @@
 # powerapps-alert-button-component
 Componente de código de botón de Alerta para Power Apps.
 
+
 ## Español
+
+<img src="/app1.png">
+
+<p><p>
+
+<video width="320" height="240" controls>
+  <source src="/video.webm" type="video/webm">
+</video>
+
 
 ### Descripción
 
