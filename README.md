@@ -8,10 +8,9 @@ Componente de código de botón de Alerta para Power Apps.
 
 <p><p>
 
-<video width="320" height="240" controls>
-  <source src="/video.webm" type="video/webm">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KssB2D2SY0?si=ik7iqePlR1dK2YYZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<p><p>
 
 ### Descripción
 
