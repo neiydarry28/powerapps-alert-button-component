@@ -7,7 +7,7 @@ Componente de código de botón de Alerta para Power Apps.
 <img src="/app1.png">
 
 <p><p>
-<a href="https://www.youtube.com/watch?v=1KssB2D2SY0">Ver video </a>
+<a href="https://youtu.be/1KssB2D2SY0?si=-j22BwquKGNM55Qi">Ver video </a>
 
 <p><p>
 
